@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahad
 - 👀 I’m always excited to work on new ideas
-- 🌱 I’m currently working on Python / Django 
+- 🌱 I’m currently working on Python / Django / Flask / Node.js
 - 💞️ I’m looking to collaborate on python projects
 
 <!---
